@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had the correct configuration, but it appeared as if the styles weren't being picked up by the browser.  My `tailwind.config.js` was correctly configured and included the necessary paths, and I had already run `npm run build` (or the equivalent).
